@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
 $body-bg:                                                   #ecf0f1;
@@ -7,13 +8,30 @@ $navbar-default-bg:                          white;
 $navbar-default-brand-color:      #c0392b;
 $brand-primary:                                    #c0392b;
 $jumbotron-bg:                                         white;
+=======
+$body-bg:         #2980B9;
+$body-primary:     white;
+$navbar-default-bg:      #ECF0F1;
+$navbar-height:     45px;
+$navbar-default-link-color:     black;
+$brand-primary:   #34495E;
+$jumbotron-bg:   #ECF0F1; 
+>>>>>>> db4888ffb7d3db9ee85cdd5af98ce7324ebcd37d
 
 @import 'bootstrap';
 
 .center {
+<<<<<<< HEAD
      text-align: center;
 }
 
 .navbar-brand {
      font-weight: bold;
+=======
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+>>>>>>> db4888ffb7d3db9ee85cdd5af98ce7324ebcd37d
 }
